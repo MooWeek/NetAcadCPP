@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57e54b6b-ea79-49e7-9c5a-4bbf43ef50ea}</ProjectGuid>
-    <RootNamespace>Lab2153</RootNamespace>
+    <ProjectGuid>{C5BC2584-0F6F-459E-A1F4-4423F61F6C36}</ProjectGuid>
+    <RootNamespace>Lab2151</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Lab 2.1.5 (3) Some actual evaluations - converting measurement systems [B]</ProjectName>
+    <ProjectName>Lab 2.1.5 (1) Essentials of if-else statement [A]</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Lab 2.1.5 (3).cpp" />
+    <ClCompile Include="Lab2.1.5(1).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

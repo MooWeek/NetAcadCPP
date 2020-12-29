@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d2f9e8e5-e758-4464-a6a5-5013d2f77ed5}</ProjectGuid>
+    <ProjectGuid>{E2232841-0D1E-45E5-831A-56FBB65162F2}</ProjectGuid>
     <RootNamespace>Lab2152</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Lab 2.1.5 (2) Some actual evaluations - taxes [B]</ProjectName>
